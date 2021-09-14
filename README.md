@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @lpdev01
 - 🌱 I’m currently learning Nodejs, ReactJs, React-Native and Elixir
 
-- 📫 How to reach me <span>
+<div>
   <a href="https://www.instagram.com/lpbborges93" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto: luizpaulobborges@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/luizpaulobborges/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
-</span>
+</div>
 
 <br>
 
